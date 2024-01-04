@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.github.lunchee.springtracing;
 
 import io.micrometer.tracing.Tracer;
 import lombok.RequiredArgsConstructor;

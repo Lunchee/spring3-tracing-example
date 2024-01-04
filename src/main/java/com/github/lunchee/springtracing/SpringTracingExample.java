@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.github.lunchee.springtracing;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.SpringApplication;
